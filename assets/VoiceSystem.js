@@ -108,14 +108,6 @@
     if (cfg.eventVoice) {
         // 关键词 -> [语音文件列表, 类别]
         const KEYWORDS = [
-            [['中出', '射在里面', '里面射'], ['A_nakadasimae1', 'A_nakadasimae2'], 'nakadashi'],
-            [['绝顶', '高潮', '去了', '要去了'], ['A_zettyoumae1', 'A_zettyoumae2', 'A_zettyoumae3'], 'climax'],
-            [['射精', '射了'], ['A_syaseion1'], 'syasei'],
-            [['拔出', '拔出来', '抽出来'], ['A_nuite'], 'nuite'],
-            [['胸部', '乳房', '奶子', '揉胸'], ['A_oppaidamage'], 'oppai'],
-            [['屁股', '臀部', '菊', '后面', '后庭'], ['A_osiridamage'], 'oshiri'],
-            [['打屁股', '拍打屁', '惩罚'], ['A_spanking'], 'spank'],
-            [['绑', '拘束', '动弹不得', '无法动弹'], ['A_kousokuvoice'], 'kousoku'],
             [['欢迎光临', '欢迎'], ['A_irassyai'], 'irassyai'],
             [['谢谢', '感谢'], ['A_arigatou'], 'arigatou'],
             [['请'], ['A_matadouzo'], 'matadouzo']
